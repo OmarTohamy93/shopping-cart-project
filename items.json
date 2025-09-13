@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "itemname": "T-shirt",
+    "price": "400",
+    "itemdescription": "white shirt with some fancy drawing."
+  },
+  {
+    "id": "2",
+    "itemname": "Car-toy",
+    "price": "50",
+    "itemdescription": "red toy car for children similar to the famous car movie"
+  },
+  {
+    "id": "3",
+    "itemname": "Shoes",
+    "price": "950",
+    "itemdescription": " pair of modern red and black Adiddas shoes"
+  },
+  {
+    "id": "4",
+    "itemname": "spoon",
+    "price": "10",
+    "itemdescription": "stainless steel spoon used for fancy dinning"
+  }
+]
